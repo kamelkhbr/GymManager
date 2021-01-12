@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FatGymMembership</string>
+    <string name="delete_command">DELETE FROM %s WHERE %s = %d</string>
+</resources>
